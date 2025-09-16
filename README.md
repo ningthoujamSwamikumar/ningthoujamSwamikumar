@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am Software Engineer with 3+ years of experience in full-stack web application development. I am currently learning Solana.
 
-[My Work Journal](https://github.com/ningthoujamSwamikumar/ningthoujamSwamikumar/my-work-journal.md)
+[My Work Journal](/my-work-journal.md)
 
 
