@@ -17,30 +17,29 @@ Here are some ideas to get you started:
 
 My name is `Ningthoujam Swamikumar Singh`. People call me `Swami`.
 
-I am
-Full-stack engineer | Building scalable systems | Exploring Solana
+### I am
+> Full-stack engineer | Building scalable systems | Exploring Solana
 
-I love
-Rust | Typescript | Anchor | Pinocchio
+### I love
+> Rust | Typescript | Anchor | Pinocchio
 
-Some of my projects
-| Dark Trades - Dark Pool to allow institutions for hidden trades on Solana (Ongoing) [Link](https://github.com/ningthoujamSwamikumar/mb-dark-trades)
-| Shielded Swap - A platform for private swaps on Solana (Ongoing) [Link](https://github.com/ningthoujamSwamikumar/private-swap)
-| MotoG - a platform to buy and sell used cars. [Link](https://github.com/motog-app/motog-app-fe)
+### My projects
+> Dark Trades - Dark Pool to allow institutions for hidden trades on Solana (Ongoing) [Link](https://github.com/ningthoujamSwamikumar/mb-dark-trades) 
 
-Open Source Contributions
-| [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio/pulls/ningthoujamSwamikumar)
-| [@solana/kit](https://github.com/anza-xyz/kit/pull/1154)
+>Shielded Swap - A platform for private swaps on Solana (Ongoing) [Link](https://github.com/ningthoujamSwamikumar/private-swap)
 
-Interesting Projects in the Solana Ecosystem
-| Magicblock 
-| Triton one projects
-| Helius 
-| Anza
-| Arcium
+> MotoG - a platform to buy and sell used cars. [Link](https://github.com/motog-app/motog-app-fe)
 
-My Socials
-Twitter [@NSwamikumar](https://x.com/NSwamikumar)
+### Open Source Contributions
+> [anza-xyz/pinocchio](https://github.com/anza-xyz/pinocchio/pulls/ningthoujamSwamikumar)
+
+> [@solana/kit](https://github.com/anza-xyz/kit/pull/1154)
+
+### Interesting Projects in the Solana Ecosystem
+> Magicblock | Triton one| Helius | Anza | Arcium
+
+
+##### Twitter Handle [@NSwamikumar](https://x.com/NSwamikumar)
 
 
 
